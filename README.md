@@ -1,5 +1,5 @@
 [![Masterhead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwenajans.com%2Fwen-yazilim-gelistirme&psig=AOvVaw28h3yaWM4zoh1o_viAyPpk&ust=1695988308733000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiqtPqezYEDFQAAAAAdAAAAABAD)
-<h1 align="center">Hi 👋, I'm Beril</h1>
+<h1 align="center">Hi 👋, Welcome my github profile,I'm Beril</h1>
 <h3 align="center">2nd year software engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berilbls&label=Profile%20views&color=0e75b6&style=flat" alt="berilbls" /> </p>
